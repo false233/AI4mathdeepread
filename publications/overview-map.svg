@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="766" viewBox="0 0 980 766" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">
+<rect x="0" y="0" width="980" height="766" fill="#f7f8fa"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#3f6491"/></marker></defs>
+<text x="40" y="42" font-size="13" fill="#e8720c" letter-spacing="3">AI4MATH · DEEP READING</text>
+<text x="40" y="76" font-size="26" font-weight="700" fill="#1a2e4b">反平方势薛定谔算子的相邻二进系统与分段核尺度</text>
+<text x="40" y="108" font-size="15" fill="#5f6670">目标读者：数学系本科毕业生 · 共 7 章 · 主路线章数以橙色标出</text>
+<line x1="40" y1="124" x2="940" y2="124" stroke="#dce1e8"/>
+<line x1="70" y1="210" x2="70" y2="221" stroke="#e8720c" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="70" y1="284" x2="70" y2="295" stroke="#e8720c" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="70" y1="358" x2="70" y2="369" stroke="#e8720c" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="70" y1="432" x2="70" y2="443" stroke="#e8720c" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="70" y1="506" x2="70" y2="517" stroke="#e8720c" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="70" y1="580" x2="70" y2="591" stroke="#e8720c" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="40" y="150" width="120" height="56" rx="8" fill="#e8f5e9" stroke="#e8720c" stroke-width="1.6"/>
+<text x="100" y="173" font-size="16" font-weight="700" fill="#e8720c" text-anchor="middle">第 1 章</text>
+<text x="100" y="193" font-size="12" fill="#e8720c" text-anchor="middle">ch1 · v4</text>
+<rect x="200" y="150" width="700" height="56" rx="8" fill="white" stroke="#e8720c" stroke-width="2.2"/>
+<text x="218" y="174" font-size="17" font-weight="700" fill="#1a2e4b">背景与反平方势薛定谔算子</text>
+<text x="218" y="196" font-size="13" fill="#5f6670">无前置</text>
+<text x="882" y="196" font-size="13" fill="#e8720c" text-anchor="end">已交付 · 主路线</text>
+<rect x="40" y="224" width="120" height="56" rx="8" fill="#e8f5e9" stroke="#e8720c" stroke-width="1.6"/>
+<text x="100" y="247" font-size="16" font-weight="700" fill="#e8720c" text-anchor="middle">第 2 章</text>
+<text x="100" y="267" font-size="12" fill="#e8720c" text-anchor="middle">ch2 · v5</text>
+<rect x="200" y="224" width="700" height="56" rx="8" fill="white" stroke="#e8720c" stroke-width="2.2"/>
+<text x="218" y="248" font-size="17" font-weight="700" fill="#1a2e4b">标准二进网格与相邻覆盖问题</text>
+<text x="218" y="270" font-size="13" fill="#5f6670">无前置</text>
+<text x="882" y="270" font-size="13" fill="#e8720c" text-anchor="end">已交付 · 主路线</text>
+<rect x="40" y="298" width="120" height="56" rx="8" fill="#e8f5e9" stroke="#e8720c" stroke-width="1.6"/>
+<text x="100" y="321" font-size="16" font-weight="700" fill="#e8720c" text-anchor="middle">第 3 章</text>
+<text x="100" y="341" font-size="12" fill="#e8720c" text-anchor="middle">ch3 · v6</text>
+<rect x="200" y="298" width="700" height="56" rx="8" fill="white" stroke="#e8720c" stroke-width="2.2"/>
+<text x="218" y="322" font-size="17" font-weight="700" fill="#1a2e4b">相对距离与相位构造</text>
+<text x="218" y="344" font-size="13" fill="#5f6670">前置：ch2</text>
+<text x="882" y="344" font-size="13" fill="#e8720c" text-anchor="end">已交付 · 主路线</text>
+<rect x="40" y="372" width="120" height="56" rx="8" fill="#e8f5e9" stroke="#e8720c" stroke-width="1.6"/>
+<text x="100" y="395" font-size="16" font-weight="700" fill="#e8720c" text-anchor="middle">第 4 章</text>
+<text x="100" y="415" font-size="12" fill="#e8720c" text-anchor="middle">ch4 · v5</text>
+<rect x="200" y="372" width="700" height="56" rx="8" fill="white" stroke="#e8720c" stroke-width="2.2"/>
+<text x="218" y="396" font-size="17" font-weight="700" fill="#1a2e4b">n+1 相邻二进系统的构造</text>
+<text x="218" y="418" font-size="13" fill="#5f6670">前置：ch1、ch3</text>
+<text x="882" y="418" font-size="13" fill="#e8720c" text-anchor="end">已交付 · 主路线</text>
+<rect x="40" y="446" width="120" height="56" rx="8" fill="#e8f5e9" stroke="#e8720c" stroke-width="1.6"/>
+<text x="100" y="469" font-size="16" font-weight="700" fill="#e8720c" text-anchor="middle">第 5 章</text>
+<text x="100" y="489" font-size="12" fill="#e8720c" text-anchor="middle">ch5 · v5</text>
+<rect x="200" y="446" width="700" height="56" rx="8" fill="white" stroke="#e8720c" stroke-width="2.2"/>
+<text x="218" y="470" font-size="17" font-weight="700" fill="#1a2e4b">局部相邻覆盖性质</text>
+<text x="218" y="492" font-size="13" fill="#5f6670">前置：ch4</text>
+<text x="882" y="492" font-size="13" fill="#e8720c" text-anchor="end">已交付 · 主路线</text>
+<rect x="40" y="520" width="120" height="56" rx="8" fill="#e8f5e9" stroke="#e8720c" stroke-width="1.6"/>
+<text x="100" y="543" font-size="16" font-weight="700" fill="#e8720c" text-anchor="middle">第 6 章</text>
+<text x="100" y="563" font-size="12" fill="#e8720c" text-anchor="middle">ch6 · v5</text>
+<rect x="200" y="520" width="700" height="56" rx="8" fill="white" stroke="#e8720c" stroke-width="2.2"/>
+<text x="218" y="544" font-size="17" font-weight="700" fill="#1a2e4b">Riesz 位势核与分段核尺度</text>
+<text x="218" y="566" font-size="13" fill="#5f6670">前置：ch1、ch5</text>
+<text x="882" y="566" font-size="13" fill="#e8720c" text-anchor="end">已交付 · 主路线</text>
+<rect x="40" y="594" width="120" height="56" rx="8" fill="#e8f5e9" stroke="#e8720c" stroke-width="1.6"/>
+<text x="100" y="617" font-size="16" font-weight="700" fill="#e8720c" text-anchor="middle">第 7 章</text>
+<text x="100" y="637" font-size="12" fill="#e8720c" text-anchor="middle">ch7 · v6</text>
+<rect x="200" y="594" width="700" height="56" rx="8" fill="white" stroke="#e8720c" stroke-width="2.2"/>
+<text x="218" y="618" font-size="17" font-weight="700" fill="#1a2e4b">非拟度量性质与几何障碍</text>
+<text x="218" y="640" font-size="13" fill="#5f6670">前置：ch6</text>
+<text x="882" y="640" font-size="13" fill="#e8720c" text-anchor="end">已交付 · 主路线</text>
+<text x="40" y="684" font-size="13" fill="#5f6670">图例：绿色=已交付 · 蓝=写作/排队 · 灰=待规划 · 橙=待复核/主路线 · 红=阻塞。依赖细节与命题依赖见网页「知识地图」，本图仅用于确认全局结构。</text>
+</svg>
